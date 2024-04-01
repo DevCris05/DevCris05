@@ -1,8 +1,8 @@
 # CRISTIAN ANGOMA
 
 ## 💫 About Me:
-👋 ¡Hola! Soy un apasionado programador de 23 años con un deseo ardiente de trabajar en equipos colaborativos y sobresalir en el mundo del desarrollo. Mi objetivo es contribuir al éxito de proyectos emocionantes y aprender continuamente.
-
+👋 ¡Hola! soy un estudiante de ingeniería, desarrollador front-end junior y apasionado por la tecnología con conocimientos en HTML, CSS y JavaScript, siempre estoy apto a aprender nuevas tecnologías, herramientas y a colaborar con equipos que me ayuden a crecer y desenvolverme profesionalmente de manera eficiente. 
+Me gusta trabajar en equipo y dar lo mejor de mi.
 
 ## 🌐 Socials:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/DevCris05) 
